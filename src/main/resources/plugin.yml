@@ -1,0 +1,4 @@
+name: Common
+version: '${project.version}'
+main: org.hikuro.hikucraft.Common
+api-version: '1.20'
