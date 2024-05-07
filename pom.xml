@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.hikuro</groupId>
-	<artifactId>HikuCraft</artifactId>
+	<artifactId>HikuCraftCommon</artifactId>
 	<version>0.1</version>
 	<packaging>jar</packaging>
 
